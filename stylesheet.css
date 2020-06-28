@@ -15,13 +15,14 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+  background-color: #239b76;
 }
 
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -39,7 +40,6 @@ a {
 
 .btn-wrapper {
   text-align: center;
-  background-color: #239b76;
 }
 
 .btn-wrapper p {
